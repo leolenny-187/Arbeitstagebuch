@@ -1,10 +1,10 @@
-#Vorwort#
+**Vorwort**
 Zum Beginn der Projektfindung war uns beiden klar, dass wir nichts kleingemuetiges anfangen, daher haben wir uns fuer etwas revolutionaeres entschieden und zwar fuer den Holzblockvernichter 3000. Dieser ist nicht nur zur Eliminierung von Holzbloecken zustaendig, sondern bringt auch die Erleuchtung fuer Gottesfuerchtige, daher ist es fuer jedes freie Wesen nicht nur empfehlenswert dies zu unterstuetzen, sondern eine hoehere Aufgabe, alle Geluesste diesem unterzuordnen.
 
-#Projekttag Nr.1# (18.08.2026)
+**Projekttag Nr.1** (18.08.2026)
 Heute ist beginn der Entwicklung unseres Meisterwerkes. Hierzu haben wir uns zwei Skizzen angefertigt und diese miteinander verglichen.
 Der Gedanke ist mit horizontalen und vertikalen Servos, zwei Ultraschallsensoren schwenken zu lassen und damit ein funktionstüchtiges Radar zu erschaffen.
 Mit den Daten aus diesem Radar soll dann für eine automatisierte Abschussvorrichtung mit manueller Nachladefunktion die Neigungs- und Schwenkposition errechnet werden. Diese ist ebenfalls auf einem horizontalen und vertikalen Servo.
 
-#Projekttag Nr.2# (24.08.2026)
+**Projekttag Nr.2** (24.08.2026)
 Zum heutigen Tage haben wir uns versammelt um eine Designsammlung zu erstellen und die einzelnen Designs zu kombinieren und dementsprechend zu einer Perfektion zu formen.

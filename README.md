@@ -20,4 +20,4 @@ Hier ist unsere angepasste Skizze, sowohl als auch die Skizze zur kompletten Abs
 Ebenfalls haben wir eine Einkaufsliste für die Abschussvorrichtung des "Holzblockvernichter 3000" erstellt, mit dieser koennen wir in den naechsten Schritt der Planung gehen, die Revolution fortzufuehren.
 
 # Projekttag Nr. 4 (31.08.2026) 
-Dieser Tag diente uns zur Ausarbeitung der Blogeintraege. Wir befassten uns hauptsaechlich mit "Projekttag Nr. 3", indem wir die Skizzen hinzufuegten, um Ihnen einen besseren Einblick in unsere Revolution zu geben.
+Dieser Tag diente uns zur Ausarbeitung der Blogeintraege. Wir befassten uns hauptsaechlich mit "Projekttag Nr. 3", indem wir die Skizzen hinzufuegten, um Ihnen einen besseren Einblick in unsere Revolution zu geben. Ebenfalls haben wir uns ueber die ungefaehren groeßen des "Holzblockvernichter 3000" ausgetauscht, bei dieser besprechung haben wir uns auf eine groeße von ungefaehr 20cm vorraussichtlicht geeinigt.

@@ -10,4 +10,11 @@ Mit den Daten aus diesem Radar soll dann für eine automatisierte Abschussvorric
 Zum heutigen Tage haben wir uns mit Github beschaeftigt und dieses Readme.md als Repository angelegt.
 
 # Projekttag Nr. 3 (25.08.2026)
-Am heutigen Tag haben wir uns genauere Gedanken zu dem Design der Abschussvorrichtung gemacht. Dabei mussten wir nach Simplifizierung und Kosten entscheiden. Dafür machten wir verschiedene Skizzen und haben diese zu einer neuen, höheren und besseren Perfektion geformt. Dabei haben wir uns an einem Design für [Blaster mit Federdruck](https://www.blasterparts.com/de/blog/grundlagen-blaster-mit-federdruck) orientiert und dieses angepasst an unsere Beduerfnisse. markdown![Mein Foto](Abschussrohr Design.png) [Hier](Abschussrohr%20Design.PNG) ist unsere angepasste Skizze sowohl als auch die Skizze zur kompletten Abschussvorrichtung. Ebenfalls haben wir eine Einkaufsliste für die Abschussvorrichtung des "Holzblockvernichter 3000" erstellt, mit dieser koennen wir in den naechsten Schritt der Planung gehen, die Revolution fortzufuehren.
+Am heutigen Tag haben wir uns genauere Gedanken zu dem Design der Abschussvorrichtung gemacht. Dabei mussten wir nach Simplifizierung und Kosten entscheiden. Dafür machten wir verschiedene Skizzen und haben diese zu einer neuen, höheren und besseren Perfektion geformt. Dabei haben wir uns an einem Design für [Blaster mit Federdruck](https://www.blasterparts.com/de/blog/grundlagen-blaster-mit-federdruck) orientiert und dieses angepasst an unsere Beduerfnisse.
+Hier ist unsere angepasste Skizze, sowohl als auch die Skizze zur kompletten Abschussvorrichtung.
+
+![Mein Foto](Abschussrohr%20Design.PNG)
+
+![Goon](Skizze%20Abschussvorrichtung.pdf)
+
+Ebenfalls haben wir eine Einkaufsliste für die Abschussvorrichtung des "Holzblockvernichter 3000" erstellt, mit dieser koennen wir in den naechsten Schritt der Planung gehen, die Revolution fortzufuehren.

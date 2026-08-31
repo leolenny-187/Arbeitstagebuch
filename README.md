@@ -15,7 +15,7 @@ Hier ist unsere angepasste Skizze, sowohl als auch die Skizze zur kompletten Abs
 
 ![Mein Foto](Abschussrohr%20Design.PNG)
 
-![Goon](Skizze%20Abschussvorrichtung.pdf)
+![Skizze](Skizze%20Abschussvorrichtung.JPG)
 
 Ebenfalls haben wir eine Einkaufsliste für die Abschussvorrichtung des "Holzblockvernichter 3000" erstellt, mit dieser koennen wir in den naechsten Schritt der Planung gehen, die Revolution fortzufuehren.
 

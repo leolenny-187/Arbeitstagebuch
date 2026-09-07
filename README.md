@@ -5,6 +5,7 @@
 - [Projekttag Nr. 3 (25.08.2026)](#projekttag-nr-3-25082026)
 - [Projekttag Nr. 4 (31.08.2026)](#projekttag-nr-4-31082026)
 - [Projekttag Nr. 5 (01.09.2026)](#projekttag-nr-5-01092026)
+- [Projekttag Nr.6 (07.09.2026)](#projekttag-nr-6-07092026)
 
 # *Vorwort*
 Zum Beginn der Projektfindung war uns beiden klar, dass wir nichts kleingemuetiges anfangen, daher haben wir uns fuer etwas revolutionaeres entschieden und zwar fuer den Holzblockvernichter 3000. Dieser ist nicht nur zur Eliminierung von Holzbloecken zustaendig, sondern bringt auch die Erleuchtung fuer Gottesfuerchtige, daher ist es fuer jedes freie Wesen nicht nur empfehlenswert dies zu unterstuetzen, sondern eine hoehere Aufgabe, alle Geluesste diesem unterzuordnen
@@ -32,3 +33,6 @@ Dieser Tag diente uns zur Ausarbeitung der Blogeintraege. Wir befassten uns haup
 
 # *Projekttag Nr. 5* (01.09.2026) 
 An diesen produktiven Tage haben wir zum Beginn die Skizzen fuer das Radar fertiggestellt. Diese basiert auf dem gleichen Prinzip wie das Abschussrohr. Das Radar ist vor dem Rohr auf dem Stativ befestigt. Dazu haben wir uns entschieden, da wir nur ein Radius von ca. 180° scannen moechten. Nachdem wir dies fertiggestellt haben, haben wir die [Liste](https://github.com/leolenny-187/Einkaufsliste) der benoetigten Materialien fortgefuehrt, da wir nun wussten was wir alles benoetigen wuerden. Dabei haben wir uns schonmal erste Gedanken ueber die Befestigung des Arduino Boards und Breadboards gemacht und uns vorlaeufig fuer die unterseite des Stativs festgelegt. Ebenfalls muessen wir nun die Revolutions benoetigten Materialien besorgen, da nicht bei jedem Produkt die Maße angegeben sind und wir diese fuer ein vervollstaendigtes 3D-Modell fuer den Drucker benoetigen.
+
+# *Projekttag Nr. 6* (07.09.2026)
+Am heutigen Tage haben wir uns dazu entschlossen eine Einverständnisserklärung zu formulieren, da unser Investor nur dieses Projekt unter dieser Vorraussetzung finanzieren wird. Ebenfalls haben wir ueber das bereits vorhandensein von Arduino Bestandteilen gesprochen und dies mit unseren Berater abgeklaert.

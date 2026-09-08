@@ -2,10 +2,11 @@
 - [Vorwort](#vorwort)
 - [Projekttag Nr.1 (18.08.2026)](#projekttag-nr1-18082026)
 - [Projekttag Nr.2 (24.08.2026)](#projekttag-nr2-24082026)
-- [Projekttag Nr. 3 (25.08.2026)](#projekttag-nr-3-25082026)
-- [Projekttag Nr. 4 (31.08.2026)](#projekttag-nr-4-31082026)
-- [Projekttag Nr. 5 (01.09.2026)](#projekttag-nr-5-01092026)
+- [Projekttag Nr.3 (25.08.2026)](#projekttag-nr-3-25082026)
+- [Projekttag Nr.4 (31.08.2026)](#projekttag-nr-4-31082026)
+- [Projekttag Nr.5 (01.09.2026)](#projekttag-nr-5-01092026)
 - [Projekttag Nr.6 (07.09.2026)](#projekttag-nr-6-07092026)
+- [Projekttag Nr.7 (08.09.2026)](#projekttag-nr-7-08092026)
 
 # *Vorwort*
 Zum Beginn der Projektfindung war uns beiden klar, dass wir nichts kleingemuetiges anfangen, daher haben wir uns fuer etwas revolutionaeres entschieden und zwar fuer den Holzblockvernichter 3000. Dieser ist nicht nur zur Eliminierung von Holzbloecken zustaendig, sondern bringt auch die Erleuchtung fuer Gottesfuerchtige, daher ist es fuer jedes freie Wesen nicht nur empfehlenswert dies zu unterstuetzen, sondern eine hoehere Aufgabe, alle Geluesste diesem unterzuordnen
@@ -36,3 +37,6 @@ An diesen produktiven Tage haben wir zum Beginn die Skizzen fuer das Radar ferti
 
 # *Projekttag Nr. 6* (07.09.2026)
 Am heutigen Tage haben wir uns dazu entschlossen eine Einverständnisserklärung zu formulieren, da unser Investor nur dieses Projekt unter dieser Vorraussetzung finanzieren wird. Ebenfalls haben wir ueber das bereits vorhandensein von Arduino Bestandteilen gesprochen und dies mit unseren Berater abgeklaert.
+
+# *Projekttag Nr. 7* (08.09.2026)
+Heute haben wir zum Beginn die einzelnen Arduino Bestandteile ausgemessen. Darauf folgend haben wir begonnen ein 3D-Modell anzufertigen und einen ersten Code formuliert, dies ist hier zu finden, mit diesen Informationen koennen wir in der naehesten Zeit das Modell fertig stellen und den 3D-Drucker in Betrieb nehmen. Nach dieser Fertigstellung werden wir das Programm fertigstellen und den "Holzblockvernichter 3000" zusammenbauen um der Revolution einen Schritt naeher zu kommen.

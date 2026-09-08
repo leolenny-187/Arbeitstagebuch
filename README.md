@@ -9,7 +9,7 @@
 - [Projekttag Nr.7 (08.09.2026)](#projekttag-nr-7-08092026)
 
 # *Vorwort*
-Zum Beginn der Projektfindung war uns beiden klar, dass wir nichts kleingemuetiges anfangen, daher haben wir uns fuer etwas revolutionaeres entschieden und zwar fuer den Holzblockvernichter 3000. Dieser ist nicht nur zur Eliminierung von Holzbloecken zustaendig, sondern bringt auch die Erleuchtung fuer Gottesfuerchtige, daher ist es fuer jedes freie Wesen nicht nur empfehlenswert dies zu unterstuetzen, sondern eine hoehere Aufgabe, alle Geluesste diesem unterzuordnen
+Zum Beginn der Projektfindung war uns beiden klar, dass wir nichts kleingemuetiges anfangen, daher haben wir uns fuer etwas revolutionaeres entschieden und zwar fuer den Holzblockvernichter 3000. Dieser ist nicht nur zur Eliminierung von Holzbloecken zustaendig, sondern bringt auch die Erleuchtung fuer Gottesfuerchtige, daher ist es fuer jedes freie Wesen nicht nur empfehlenswert dies zu unterstuetzen, sondern eine hoehere Aufgabe, alle Geluesste diesem unterzuordnen.
 
 # *Projekttag Nr.1* (18.08.2026)
 Heute ist beginn der Entwicklung unseres Meisterwerkes. Hierzu haben wir uns zwei Skizzen angefertigt und diese miteinander verglichen.
@@ -39,4 +39,4 @@ An diesen produktiven Tage haben wir zum Beginn die Skizzen fuer das Radar ferti
 Am heutigen Tage haben wir uns dazu entschlossen eine Einverständnisserklärung zu formulieren, da unser Investor nur dieses Projekt unter dieser Vorraussetzung finanzieren wird. Ebenfalls haben wir ueber das bereits vorhandensein von Arduino Bestandteilen gesprochen und dies mit unseren Berater abgeklaert.
 
 # *Projekttag Nr. 7* (08.09.2026)
-Heute haben wir zum Beginn die einzelnen Arduino Bestandteile ausgemessen. Darauf folgend haben wir begonnen ein 3D-Modell anzufertigen und einen ersten Code formuliert, dies ist hier zu finden, mit diesen Informationen koennen wir in der naehesten Zeit das Modell fertig stellen und den 3D-Drucker in Betrieb nehmen. Nach dieser Fertigstellung werden wir das Programm fertigstellen und den "Holzblockvernichter 3000" zusammenbauen um der Revolution einen Schritt naeher zu kommen.
+Heute haben wir zum Beginn die einzelnen Arduino Bestandteile ausgemessen. Darauf folgend haben wir begonnen ein 3D-Modell anzufertigen und einen ersten Code formuliert, dies ist [hier](https://www.tinkercad.com/things/3BdbcrM7T1D-holzblockvernichter-3000?sharecode=2Af5DZ--aEsoUenrl-IfiZ23Qo0oE4xeHGRxlTvmMKE) zu finden, mit diesen Informationen koennen wir in der naehesten Zeit das Modell fertig stellen und den 3D-Drucker in Betrieb nehmen. Nach dieser Fertigstellung werden wir das Programm fertigstellen und den "Holzblockvernichter 3000" zusammenbauen um der Revolution einen Schritt naeher zu kommen.

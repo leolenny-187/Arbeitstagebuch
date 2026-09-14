@@ -7,6 +7,7 @@
 - [Projekttag Nr.5 (01.09.2026)](#projekttag-nr-5-01092026)
 - [Projekttag Nr.6 (07.09.2026)](#projekttag-nr-6-07092026)
 - [Projekttag Nr.7 (08.09.2026)](#projekttag-nr-7-08092026)
+- [Projekttag Nr.8 (14.09.2026)](#projekttag-nr7-14092026)
 
 # *Vorwort*
 Zum Beginn der Projektfindung war uns beiden klar, dass wir nichts kleingemuetiges anfangen, daher haben wir uns fuer etwas revolutionaeres entschieden und zwar fuer den Holzblockvernichter 3000. Dieser ist nicht nur zur Eliminierung von Holzbloecken zustaendig, sondern bringt auch die Erleuchtung fuer Gottesfuerchtige, daher ist es fuer jedes freie Wesen nicht nur empfehlenswert dies zu unterstuetzen, sondern eine hoehere Aufgabe, alle Geluesste diesem unterzuordnen.
@@ -40,3 +41,6 @@ Am heutigen Tage haben wir uns dazu entschlossen eine Einverständnisserklärung
 
 # *Projekttag Nr. 7* (08.09.2026)
 Heute haben wir zum Beginn die einzelnen Arduino Bestandteile ausgemessen. ![Maße](Maße%20Servo.JPG) Darauf folgend haben wir begonnen ein 3D-Modell anzufertigen und einen ersten Code formuliert, dies ist [hier](https://www.tinkercad.com/things/gdRvWcBRKTj-holzblockvernichter-3000-v1?sharecode=1ndje9fyzaTf3L40UFoTnsgVxjvQgDXcrG7BvRgeALE) zu finden, mit diesen Informationen koennen wir in der naehesten Zeit das Modell fertig stellen und den 3D-Drucker in Betrieb nehmen. Nach dieser Fertigstellung werden wir das Programm fertigstellen und den "Holzblockvernichter 3000" zusammenbauen um der Revolution einen Schritt naeher zu kommen.
+
+# *Projekttag Nr. 8* (14.09.2026)
+Den heutigen Tag nutzen wir um unseren Berater das Formular fuer die Einerstaendniss zu ueberreichen und die 3D Modelierung leicht zu ueberarbeiten, da der 3D-Drucker ab heute in Betrieb genommen werden kann. Ebenfalls fuegten wir Projekttag Nr. 7 & 5 die hinzugehoerigen Skizzen hinzu, um ihnen einen besseren Einblick in unsere hervorschreitenden Revolution zu ermoeglichen.

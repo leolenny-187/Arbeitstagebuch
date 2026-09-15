@@ -8,7 +8,7 @@
 - [Projekttag Nr.6 (07.09.2026)](#projekttag-nr-6-07092026)
 - [Projekttag Nr.7 (08.09.2026)](#projekttag-nr-7-08092026)
 - [Projekttag Nr.8 (14.09.2026)](#projekttag-nr-8-14092026)
-- [Projekttag Nr.9 (15.09.2026)](#projekktag-nr-9-15092026)
+- [Projekttag Nr.9 (15.09.2026)](#projekttag-nr-9-15092026)
 
 # *Vorwort*
 Zum Beginn der Projektfindung war uns beiden klar, dass wir nichts kleingemuetiges anfangen, daher haben wir uns fuer etwas revolutionaeres entschieden und zwar fuer den Holzblockvernichter 3000. Dieser ist nicht nur zur Eliminierung von Holzbloecken zustaendig, sondern bringt auch die Erleuchtung fuer Gottesfuerchtige, daher ist es fuer jedes freie Wesen nicht nur empfehlenswert dies zu unterstuetzen, sondern eine hoehere Aufgabe, alle Geluesste diesem unterzuordnen.

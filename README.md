@@ -52,3 +52,4 @@ Diesen Produktionsreichen Tag nutzten wir um unser Abschussrohr als Perfektion i
 
 # *Projekttag Nr. 10* (21.09.2026)
 Heute haben wir unsere zwei Prototypen vom Abschussrohr erhalten und kontrolliert. Bei dieser Kontrolle ist uns aufgefallen, dass die Maße unserer 3D Modelle falsch sind, da wir davon ausgengangen sind, dass Prototyp 2 die richtigen Maße hat. Leider Gottes war aber Prototyp 1 richtig. Dadurch muessen wir die gesamte Dicke unserer Rohre, auf unserem vortgeschrittenen Modell, um 25% verringern. Dies werden wir in der naechsten Stunde fertigstellen, um unsere Revolution den vollstaendigen Glanz zu verleihen.
+![Prototypen](IMG_4245.jpeg)

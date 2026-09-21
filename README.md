@@ -9,6 +9,7 @@
 - [Projekttag Nr.7 (08.09.2026)](#projekttag-nr-7-08092026)
 - [Projekttag Nr.8 (14.09.2026)](#projekttag-nr-8-14092026)
 - [Projekttag Nr.9 (15.09.2026)](#projekttag-nr-9-15092026)
+- [Projekttag Nr.10 (21.09.2026)](#projekttag-nr-10-21092026)
 
 # *Vorwort*
 Zum Beginn der Projektfindung war uns beiden klar, dass wir nichts kleingemuetiges anfangen, daher haben wir uns fuer etwas revolutionaeres entschieden und zwar fuer den Holzblockvernichter 3000. Dieser ist nicht nur zur Eliminierung von Holzbloecken zustaendig, sondern bringt auch die Erleuchtung fuer Gottesfuerchtige, daher ist es fuer jedes freie Wesen nicht nur empfehlenswert dies zu unterstuetzen, sondern eine hoehere Aufgabe, alle Geluesste diesem unterzuordnen.
@@ -48,3 +49,6 @@ Den heutigen Tag nutzen wir um unseren Berater das Formular fuer die Einerstaend
 
 # *Projekttag Nr. 9* (15.09.2026)
 Diesen Produktionsreichen Tag nutzten wir um unser Abschussrohr als Perfektion in der 3D-Modulation zu erschaffen. Dies taten wir indem wir drei Gruppierungen in Tinkercad erstellten, und zwar als erste das Federohr, welches vorne geoeffnet ist um die Feder und den Zugbolzen einzufuehren und hinten eine leichte Oeffnung fuer den Zugbolzen hat. Danach erstellten wir den Kugellauf, dieser hat eine Gewindeverbindung mit dem Federohr und eine verstärkte Wand, die ebenfalls am Anfang eine leichte Verengung hat, damit die Kugel nicht in das Federohr faellt. Zum Schluss erschufen wir den Zugbolzen. Dieser besteht aus einer langen Stange, einer Platte die die Feder beruehrt und einem getrennten Haltering, den wir am Ende dran kleben muessen, da wir sonst den Bolzen nicht einfuehren koennten. Dieses Modell ist [hier](https://www.tinkercad.com/things/lJU5ykN7JWS-komplette-schussvorrichtung-einzelteile?sharecode=8-KXtbsZajJZa0pd8wPVAeVksDtYPtpRggcoAMCdiMM) zu finden, damit sie ebenfalls in Betracht ziehen koennen, die Revolution voran zu treiben. **Ebenfalls muessen wir in naechster Zeit das Gegengewinde fuer den Lauf modellieren.**
+
+# *Projekttag Nr. 10* (21.09.2026)
+Heute haben wir unsere zwei Prototypen vom Abschussrohr erhalten und kontrolliert. Bei dieser Kontrolle ist uns aufgefallen, dass die Maße unserer 3D Modelle falsch sind, da wir davon ausgengangen sind, dass Prototyp 2 die richtigen Maße hat. Leider Gottes war aber Prototyp 1 richtig. Dadurch muessen wir die gesamte Dicke unserer Rohre, auf unserem vortgeschrittenen Modell, um 25% verringern. Dies werden wir in der naechsten Stunde fertigstellen, um unsere Revolution den vollstaendigen Glanz zu verleihen.

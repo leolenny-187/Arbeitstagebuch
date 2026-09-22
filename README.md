@@ -10,6 +10,7 @@
 - [Projekttag Nr.8 (14.09.2026)](#projekttag-nr-8-14092026)
 - [Projekttag Nr.9 (15.09.2026)](#projekttag-nr-9-15092026)
 - [Projekttag Nr.10 (21.09.2026)](#projekttag-nr-10-21092026)
+- [Projekttag Nr.11 (22.09.2026)](#projekttag-nr-11-22092026)
 
 # *Vorwort*
 Zum Beginn der Projektfindung war uns beiden klar, dass wir nichts kleingemuetiges anfangen, daher haben wir uns fuer etwas revolutionaeres entschieden und zwar fuer den Holzblockvernichter 3000. Dieser ist nicht nur zur Eliminierung von Holzbloecken zustaendig, sondern bringt auch die Erleuchtung fuer Gottesfuerchtige, daher ist es fuer jedes freie Wesen nicht nur empfehlenswert dies zu unterstuetzen, sondern eine hoehere Aufgabe, alle Geluesste diesem unterzuordnen.
@@ -53,3 +54,6 @@ Diesen Produktionsreichen Tag nutzten wir um unser Abschussrohr als Perfektion i
 # *Projekttag Nr. 10* (21.09.2026)
 Heute haben wir unsere zwei Prototypen vom Abschussrohr erhalten und kontrolliert. Bei dieser Kontrolle ist uns aufgefallen, dass die Maße unserer 3D Modelle falsch sind, da wir davon ausgengangen sind, dass Prototyp 2 die richtigen Maße hat. Leider Gottes war aber Prototyp 1 richtig. Dadurch muessen wir die gesamte Dicke unserer Rohre, auf unserem vortgeschrittenen Modell, um 25% verringern. Dies werden wir in der naechsten Stunde fertigstellen, um unsere Revolution den vollstaendigen Glanz zu verleihen.
 ![Prototypen](IMG_4245.jpeg)
+
+# *Projekttag Nr. 11* (22.09.2026) 
+Zum Beginn des Tages haben wir die Maße der Abschussvorrichtung unseres Holzblockvernichters 3000 ueberarbeitet, um dies voll funktionstuechtig zu erstellen und dies in Praxis umsetzen zu koennen, haben wir ebenfalls das Gegengewinde modelliert. Dies war zuerst herausfordernder da wir vergaßen, dass das Gewinde schon eine Bohrung von uns hatte. Gluecklicherweise ist dies uns nach kurzer Zeit aufgefallen, wodurch es schnell fertig gestellt war (dies ist [hier](https://www.tinkercad.com/things/cDZkSPqxXay-komplette-schussvorrichtung-einzelteile-v2?sharecode=8VwH5AVx3NlorV8hIyGUXy017OueMhJS0svMMXbjKbc) zu finden). Mit diesen Errungenschaften laesst sich die Revolution fortfuehren und bald in Praxis umsetzen.

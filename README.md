@@ -11,6 +11,7 @@
 - [Projekttag Nr.9 (15.09.2026)](#projekttag-nr-9-15092026)
 - [Projekttag Nr.10 (21.09.2026)](#projekttag-nr-10-21092026)
 - [Projekttag Nr.11 (22.09.2026)](#projekttag-nr-11-22092026)
+- [Projekttag Nr.12 (28.09.2026)](#projekttag-nr-12-28092026)
 
 # *Vorwort*
 Zum Beginn der Projektfindung war uns beiden klar, dass wir nichts kleingemuetiges anfangen, daher haben wir uns fuer etwas revolutionaeres entschieden und zwar fuer den Holzblockvernichter 3000. Dieser ist nicht nur zur Eliminierung von Holzbloecken zustaendig, sondern bringt auch die Erleuchtung fuer Gottesfuerchtige, daher ist es fuer jedes freie Wesen nicht nur empfehlenswert dies zu unterstuetzen, sondern eine hoehere Aufgabe, alle Geluesste diesem unterzuordnen.
@@ -57,3 +58,7 @@ Heute haben wir unsere zwei Prototypen vom Abschussrohr erhalten und kontrollier
 
 # *Projekttag Nr. 11* (22.09.2026) 
 Zum Beginn des Tages haben wir die Maße der Abschussvorrichtung unseres Holzblockvernichters 3000 ueberarbeitet, um dies voll funktionstuechtig zu erstellen und dies in Praxis umsetzen zu koennen, haben wir ebenfalls das Gegengewinde und die Einkerbung bei dem Zugstab modelliert. Das Gegengewinde war zuerst herausfordernder da wir vergaßen, dass das Gewinde schon eine Bohrung von uns hatte. Gluecklicherweise ist dies uns nach kurzer Zeit aufgefallen, wodurch es schnell fertig gestellt war (dies ist [hier](https://www.tinkercad.com/things/7bJMg6AKlJ5-komplette-schussvorrichtung-einzelteile-v2?sharecode=MpOyNUUctirrgsswzkKFXRbsvYO6jBU1yc5IfLsziiw) zu finden). Mit diesen Errungenschaften laesst sich die Revolution fortfuehren und bald in Praxis umsetzen.
+
+# *Projekttag Nr. 12* (28.09.2026)
+Dieser Tag diente uns zur Verbesserung des 3D-Stativ-Modelles, indem wir die Abschussservos mit höheren Verbindungen trennten, damit die Abschussvorrichtung nirgends haengen bleibt. Am Ende fuegten wir unser Abschussrohr ebenfalls ein, um die Maße grob zu pruefen. Dies taten wir mit Erfolg, da das Abschussrohr erst bei einem Winkel von nahezu 90° am Ultraschallsensor haengen bleiben wuerde und wir nicht diesen Winkel abgreifen werden. [Modell](https://www.tinkercad.com/things/77JYpr9RXn0-holzblockvernichter-3000-v2?sharecode=pLMNCd8Z7qFN7SbLJxktLaZaUrzhHBGBZf3H65t3cpM) 
+Somit laesst sich die Revolution fortfuehren, geehrt sie der "Holzblockvernichter 3000".

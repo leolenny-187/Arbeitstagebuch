@@ -65,5 +65,6 @@ Dieser Tag diente uns zur Verbesserung des 3D-Stativ-Modelles, indem wir die Abs
 Somit laesst sich die Revolution fortfuehren, geehrt sie der "Holzblockvernichter 3000".
 
 # *Projekttag Nr. 13* (29.09.2026) 
-Zum revolutionaeren Tage haben wir die Abschussvorrichtung ueberarbeitet, indem wir die Servo Verbindung am Federrohr hinzufuegten und eine Laufoese, durch welche ein Band, welches zum Loesen des Zugstabes dient, laeuft. [Modell](https://www.tinkercad.com/things/dnhAradnB83-schussvorrichtung-mit-ausloser?sharecode=jQgXUhdu7qS6J3GWHz9s1UxNumEPLc77WO5I77snCAk)
+Zum revolutionaeren Tage haben wir die Abschussvorrichtung ueberarbeitet, indem wir die Servo Verbindung am Federrohr hinzufuegten und eine Laufoese, durch welche ein Band, welches zum Loesen des Zugstabes dient, laeuft ([Abschussvorrichtung](https://www.tinkercad.com/things/dnhAradnB83-schussvorrichtung-mit-ausloser?sharecode=jQgXUhdu7qS6J3GWHz9s1UxNumEPLc77WO5I77snCAk))
+
 Dann haben wir das Stativ ebenfalls ueberarbeitet, da uns die Dicke der Halterungen fuer die Abschussvorrichtung zu duenn vorkamen. Um dieses Stativ zu stabilisieren, haben wir die Waende verstaerkt. [Stativ](https://www.tinkercad.com/things/fRu0jczeAMu-holzblockvernichter-3000-v3?sharecode=-FgfVojQsR67tAT_RmSxJ10wjH7hhNGAjjwMXaimdNE)

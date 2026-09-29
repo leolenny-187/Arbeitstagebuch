@@ -12,6 +12,7 @@
 - [Projekttag Nr.10 (21.09.2026)](#projekttag-nr-10-21092026)
 - [Projekttag Nr.11 (22.09.2026)](#projekttag-nr-11-22092026)
 - [Projekttag Nr.12 (28.09.2026)](#projekttag-nr-12-28092026)
+- [Projekttag Nr.13 (29.09.2026)](#projekttag-nr-13-29092026)
 
 # *Vorwort*
 Zum Beginn der Projektfindung war uns beiden klar, dass wir nichts kleingemuetiges anfangen, daher haben wir uns fuer etwas revolutionaeres entschieden und zwar fuer den Holzblockvernichter 3000. Dieser ist nicht nur zur Eliminierung von Holzbloecken zustaendig, sondern bringt auch die Erleuchtung fuer Gottesfuerchtige, daher ist es fuer jedes freie Wesen nicht nur empfehlenswert dies zu unterstuetzen, sondern eine hoehere Aufgabe, alle Geluesste diesem unterzuordnen.
@@ -62,3 +63,7 @@ Zum Beginn des Tages haben wir die Maße der Abschussvorrichtung unseres Holzblo
 # *Projekttag Nr. 12* (28.09.2026)
 Dieser Tag diente uns zur Verbesserung des 3D-Stativ-Modelles, indem wir die Abschussservos mit höheren Verbindungen trennten, damit die Abschussvorrichtung nirgends haengen bleibt. Am Ende fuegten wir unser Abschussrohr ebenfalls ein, um die Maße grob zu pruefen. Dies taten wir mit Erfolg, da das Abschussrohr erst bei einem Winkel von nahezu 90° am Ultraschallsensor haengen bleiben wuerde und wir nicht diesen Winkel abgreifen werden. [Modell](https://www.tinkercad.com/things/77JYpr9RXn0-holzblockvernichter-3000-v2?sharecode=pLMNCd8Z7qFN7SbLJxktLaZaUrzhHBGBZf3H65t3cpM) 
 Somit laesst sich die Revolution fortfuehren, geehrt sie der "Holzblockvernichter 3000".
+
+# *Projekttag Nr. 13* (29.09.2026) 
+Zum revolutionaeren Tage haben wir die Abschussvorrichtung ueberarbeitet, indem wir die Servo Verbindung am Federrohr hinzufuegten und eine Laufoese, durch welche ein Band, welches zum Loesen des Zugstabes dient, laeuft. [Modell](https://www.tinkercad.com/things/dnhAradnB83-schussvorrichtung-mit-ausloser?sharecode=jQgXUhdu7qS6J3GWHz9s1UxNumEPLc77WO5I77snCAk)
+Dann haben wir das Stativ ebenfalls ueberarbeitet, da uns die Dicke der Halterungen fuer die Abschussvorrichtung zu duenn vorkamen. Um dieses Stativ zu stabilisieren, haben wir die Waende verstaerkt. [Stativ](https://www.tinkercad.com/things/fRu0jczeAMu-holzblockvernichter-3000-v3?sharecode=-FgfVojQsR67tAT_RmSxJ10wjH7hhNGAjjwMXaimdNE)

@@ -13,6 +13,7 @@
 - [Projekttag Nr.11 (22.09.2026)](#projekttag-nr-11-22092026)
 - [Projekttag Nr.12 (28.09.2026)](#projekttag-nr-12-28092026)
 - [Projekttag Nr.13 (29.09.2026)](#projekttag-nr-13-29092026)
+- [Projekttag Nr.14 (05.10.2026)](#projekttag-nr-14-05102026)
 
 # *Vorwort*
 Zum Beginn der Projektfindung war uns beiden klar, dass wir nichts kleingemuetiges anfangen, daher haben wir uns fuer etwas revolutionaeres entschieden und zwar fuer den Holzblockvernichter 3000. Dieser ist nicht nur zur Eliminierung von Holzbloecken zustaendig, sondern bringt auch die Erleuchtung fuer Gottesfuerchtige, daher ist es fuer jedes freie Wesen nicht nur empfehlenswert dies zu unterstuetzen, sondern eine hoehere Aufgabe, alle Geluesste diesem unterzuordnen.
@@ -69,3 +70,5 @@ Zum revolutionaeren Tage haben wir die Abschussvorrichtung ueberarbeitet, indem 
 
 Dann haben wir das Stativ ebenfalls ueberarbeitet, da uns die Dicke der Halterungen fuer die Abschussvorrichtung zu duenn vorkamen. Um dieses Stativ zu stabilisieren, haben wir die Waende verstaerkt ([Stativ](https://www.tinkercad.com/things/fRu0jczeAMu-holzblockvernichter-3000-v3?sharecode=-FgfVojQsR67tAT_RmSxJ10wjH7hhNGAjjwMXaimdNE)).
 Mit diesen Erfolg sind wir unserer Revolution wesentlich naeher gekommen. Durch die Fertiggestellung des 3D-Modelles, koennen wir Anfangen mit diesen Projekt langsam an die Oeffentlichkeit zu gehen.
+
+# *Projekttag Nr. 14* (05.10.2026)

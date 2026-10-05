@@ -72,3 +72,4 @@ Dann haben wir das Stativ ebenfalls ueberarbeitet, da uns die Dicke der Halterun
 Mit diesen Erfolg sind wir unserer Revolution wesentlich naeher gekommen. Durch die Fertiggestellung des 3D-Modelles, koennen wir Anfangen mit diesen Projekt langsam an die Oeffentlichkeit zu gehen.
 
 # *Projekttag Nr. 14* (05.10.2026)
+Heute haben wir uns mit dem Code vom Arduino beschaeftigt. Dies war leider nicht sonderlich Erfolgreich, da der Abschussausloeser nicht reagierte. Trotzdessen haben wir einen ersten theoretischen Arduino Aufbau mit den Servo und Ultraschallsensor Verbindungen.

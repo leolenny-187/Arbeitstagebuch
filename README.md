@@ -15,6 +15,7 @@
 - [Projekttag Nr.13 (29.09.2026)](#projekttag-nr-13-29092026)
 - [Projekttag Nr.14 (05.10.2026)](#projekttag-nr-14-05102026)
 - [Projekttag Nr.15 (06.10.2026)](#projekttag-nr-15-06102026)
+- [Projekttag Nr.16 (26.10.2026)](#projekttag-nr-16-26102026)
 
 # *Vorwort*
 Zum Beginn der Projektfindung war uns beiden klar, dass wir nichts kleingemuetiges anfangen, daher haben wir uns fuer etwas revolutionaeres entschieden und zwar fuer den Holzblockvernichter 3000. Dieser ist nicht nur zur Eliminierung von Holzbloecken zustaendig, sondern bringt auch die Erleuchtung fuer Gottesfuerchtige, daher ist es fuer jedes freie Wesen nicht nur empfehlenswert dies zu unterstuetzen, sondern eine hoehere Aufgabe, alle Geluesste diesem unterzuordnen.
@@ -77,3 +78,6 @@ Heute haben wir uns mit dem Code vom Arduino beschaeftigt. Dies war leider nicht
 
 # *Projekttag Nr. 15* (06.10.2026)
 Da am heutigen Tag ein Gruppenmitglied fehlte, begann ich den Schaltkreis in Tinkercad uebersichtlicher zu machen und moegliche Fehler auszuschließen, dafuer hab ich Gemini genommen. Diese KI hat mich darauf aufmerksam gemacht, dass man externe Stromquellen nutzen sollte, um das Board nicht zu ueberlasten. Da es nur 9V Batterien gab, habe ich diese mit einem 5V-Regler verbunden und dann einen Servo/Ultraschallsensor verbunden, ebenfalls habe ich die passenden Kabelfarben eingefuegt. Da ich im Anschluss noch Zeit hatte um den Code zu ueberarbeiten, habe ich die Probleme des letzten Tages entfernt, somit bewegen sich die Servos am Pin 5 & 6 durchgaengig, doch der Servo am Pin 6 bewegt sich fuer mich noch in einem zu kleinen Radius. Ebenfalls funktioniert nun die Zielausrichtung, diese richten sich bei einer Zielerfassung auf 50cm, auf die exakt gleichen Winkel, wie die Servos des Sensors. Dies muss noch ueberarbeitet werden, wenn wir diese Heiligkeit in Praxis umsetzen, da das Abschusssystem nicht an der exakt gleichen Position sitzt, wie der Ultraschallsensor(dies ist [hier](https://www.tinkercad.com/things/6cCxLtADrxH-copy-of-teste-sensor-ultrasonico-com-arduino?sharecode=GStRBQ74BIcbX4-T6Mb-Vi9VKJh6cnIx3r_jOukdXG0) zu finden). Somit war ich heute sehr Aktiv um unsere Revolution fortzusetzen, um eine neue Weltordnung zu erschaffen.
+
+# *Projekttag Nr. 15* (26.10.2026)
+Nach dieser zwei Woechigen Erholungsphase haben wir zutiefst, hochmotiviert die Revolution fortgefuehrt. In dieser Erholungsphase wurden ebenfalls unsere ersten 3D Modelle fertiggestellt und wir haben am heutigen Tage, die Radarschwenkung zu einem Rastermuster ueberarbeitet, dies funktionierte mit bravour. 

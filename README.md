@@ -16,6 +16,7 @@
 - [Projekttag Nr.14 (05.10.2026)](#projekttag-nr-14-05102026)
 - [Projekttag Nr.15 (06.10.2026)](#projekttag-nr-15-06102026)
 - [Projekttag Nr.16 (26.10.2026)](#projekttag-nr-16-26102026)
+- [Projekttag Nr.17 (27.10.2026)](#projekttag-nr-17-27102026)
 
 # *Vorwort*
 Zum Beginn der Projektfindung war uns beiden klar, dass wir nichts kleingemuetiges anfangen, daher haben wir uns fuer etwas revolutionaeres entschieden und zwar fuer den Holzblockvernichter 3000. Dieser ist nicht nur zur Eliminierung von Holzbloecken zustaendig, sondern bringt auch die Erleuchtung fuer Gottesfuerchtige, daher ist es fuer jedes freie Wesen nicht nur empfehlenswert dies zu unterstuetzen, sondern eine hoehere Aufgabe, alle Geluesste diesem unterzuordnen.
@@ -81,3 +82,6 @@ Da am heutigen Tag ein Gruppenmitglied fehlte, begann ich den Schaltkreis in Tin
 
 # *Projekttag Nr. 16* (26.10.2026)
 Nach dieser zwei Woechigen Erholungsphase haben wir zutiefst, hochmotiviert die Revolution fortgefuehrt. In dieser Erholungsphase wurden ebenfalls unsere ersten 3D Modelle fertiggestellt und wir haben am heutigen Tage, die Radarschwenkung zu einem Rastermuster ueberarbeitet, dies funktionierte mit bravour([Code V.2](https://www.tinkercad.com/things/kfD2lUZCuma-prototyp-v2?sharecode=GflsDG5z5VPuCBLRWIp8QnSqiAQiQjTzSRdLLpiYVRM)). Dafuer haben wir uns entschieden, da die andere Version zu schnell und ohne großer Abdeckungsrate gescannt hat und damit die zuverlaesslichkeit des Abwehrmechanismuss vernachlaessigte und somit fuer die Revolution lachhaft gewesen waere.
+
+# *Projekttag Nr. 17* (27.10.2026)
+An diesem Tage musste ich mich wieder alleine auf die Wege begehen, da mein Partner auf der Klassensprecherkonferenz war und dort Anliegen vermitteln musste. Dies habe ich zum Anlass genommen, unsere Theorie in die Praxis umzusetzen. Da jedoch der Servotreiber unauffindbar war, stellte es sich als unmoeglichkeit herraus. Trotzdessen habe ich angefangen diese Gewalt Praktisch umzusetzen, doch durch das fehlende Board, war dies leider unuebersichtlich und komplex. Da viele Kabel offen waren und es unsicher war ob alles verkabelt ist, ebenfalls konnte ich keinen Servomotor anschließen, da diese alle ueber den Treiber laufen. Daher war dieser Tag leider nicht sehr voran bringend, doch die Revolution laesst sich weder beirren noch unterkriegen und wird weiterhin voran schreiten.

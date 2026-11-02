@@ -17,6 +17,7 @@
 - [Projekttag Nr.15 (06.10.2026)](#projekttag-nr-15-06102026)
 - [Projekttag Nr.16 (26.10.2026)](#projekttag-nr-16-26102026)
 - [Projekttag Nr.17 (27.10.2026)](#projekttag-nr-17-27102026)
+- [Projekttag Nr.18 (02.11.2026)](#projekttag-nr-16-02112026)
 
 # *Vorwort*
 Zum Beginn der Projektfindung war uns beiden klar, dass wir nichts kleingemuetiges anfangen, daher haben wir uns fuer etwas revolutionaeres entschieden und zwar fuer den Holzblockvernichter 3000. Dieser ist nicht nur zur Eliminierung von Holzbloecken zustaendig, sondern bringt auch die Erleuchtung fuer Gottesfuerchtige, daher ist es fuer jedes freie Wesen nicht nur empfehlenswert dies zu unterstuetzen, sondern eine hoehere Aufgabe, alle Geluesste diesem unterzuordnen.
@@ -85,3 +86,6 @@ Nach dieser zwei Woechigen Erholungsphase haben wir zutiefst, hochmotiviert die 
 
 # *Projekttag Nr. 17* (27.10.2026)
 An diesem Tage musste ich mich wieder alleine auf die Wege begehen, da mein Partner auf der Klassensprecherkonferenz war und dort Anliegen vermitteln musste. Dies habe ich zum Anlass genommen, unsere Theorie in die Praxis umzusetzen. Da jedoch der Servotreiber unauffindbar war, stellte es sich als unmoeglichkeit herraus. Trotzdessen habe ich angefangen diese Gewalt Praktisch umzusetzen, doch durch das fehlende Board, war dies leider unuebersichtlich und komplex. Da viele Kabel offen waren und es unsicher war ob alles verkabelt ist, ebenfalls konnte ich keinen Servomotor anschließen, da diese alle ueber den Treiber laufen. Daher war dieser Tag leider nicht sehr voran bringend, doch die Revolution laesst sich weder beirren noch unterkriegen und wird weiterhin voran schreiten.
+
+# *Projekttag Nr. 18* (02.11.2026)
+Heute ist der Servotreiber zu unserem Glücke angekommen. Dadurch konnten wir diesen direkt in unsere Arduino Konstruktion verbauen und dann auch sofort die Servos anstecken. Bei diesem Arbeitsschritt haben wir uns an einer Skizze aus dem Internet von [Arduino Fritzing](https://www.pngegg.com/vi/png-pkema) orientiert. Nur mussten wir noch ein Breadboard extra hinzufügen, da sonst die Stromzufuhr für die Servos unzureichend wäre.

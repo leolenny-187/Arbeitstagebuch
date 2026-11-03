@@ -18,6 +18,7 @@
 - [Projekttag Nr.16 (26.10.2026)](#projekttag-nr-16-26102026)
 - [Projekttag Nr.17 (27.10.2026)](#projekttag-nr-17-27102026)
 - [Projekttag Nr.18 (02.11.2026)](#projekttag-nr-18-02112026)
+- [Projekttag Nr.19 (03.11.2026)](#projekttag-nr-19-03112026)
 
 # *Vorwort*
 Zum Beginn der Projektfindung war uns beiden klar, dass wir nichts kleingemuetiges anfangen, daher haben wir uns fuer etwas revolutionaeres entschieden und zwar fuer den Holzblockvernichter 3000. Dieser ist nicht nur zur Eliminierung von Holzbloecken zustaendig, sondern bringt auch die Erleuchtung fuer Gottesfuerchtige, daher ist es fuer jedes freie Wesen nicht nur empfehlenswert dies zu unterstuetzen, sondern eine hoehere Aufgabe, alle Geluesste diesem unterzuordnen.
@@ -89,3 +90,6 @@ An diesem Tage musste ich mich wieder alleine auf die Wege begehen, da mein Part
 
 # *Projekttag Nr. 18* (02.11.2026)
 Heute ist der Servotreiber zu unserem Glücke angekommen. Dadurch konnten wir diesen direkt in unsere Arduino Konstruktion verbauen und dann auch sofort die Servos anstecken. Bei diesem Arbeitsschritt haben wir uns an einer Skizze aus dem Internet von [Arduino Fritzing](https://www.pngegg.com/vi/png-pkema) orientiert. Nur mussten wir noch ein Breadboard extra hinzufügen, da sonst die Stromzufuhr für die Servos unzureichend wäre.
+
+# *Projekttag Nr. 19* (03.11.2026)
+Wir haben heute damit begonnen, das Stativ des "Holzblockvernichters 3000" in zwei separate Dateien zum Drucken getrennt. Danach haben wir mit unseren Berater Herr Buhl einen ersten Abgabetermin fuer ein erstes Vorfuehrmodell geeinigt, dies geschieht am 07.12.2026. Ebenfalls wurden heute die ersten fertig gedruckten Teile mitgebracht.

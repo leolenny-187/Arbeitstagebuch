@@ -93,3 +93,4 @@ Heute ist der Servotreiber zu unserem Glücke angekommen. Dadurch konnten wir di
 
 # *Projekttag Nr. 19* (03.11.2026)
 Wir haben heute damit begonnen, das Stativ des "Holzblockvernichters 3000" in zwei separate Dateien zum Drucken getrennt. Danach haben wir mit unseren Berater Herr Buhl einen ersten Abgabetermin fuer ein erstes Vorfuehrmodell geeinigt, dies geschieht am 07.12.2026. Ebenfalls wurden heute die ersten fertig gedruckten Teile mitgebracht. ![1 Druck](Abschussrohr.%203D-gedruckt.jpg)
+Zum Schluss haben wir den Code in die Arduino-App uebertragen und den Servotreiber in den Code eingefuegt, wir haben auch ein PWMax fuer die Servos hinzugefuegt damit die Stromversorgung nicht zu hoch wird und die Servos durchbrennen.

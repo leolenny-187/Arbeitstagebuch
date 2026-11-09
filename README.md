@@ -97,4 +97,4 @@ Wir haben heute damit begonnen, das Stativ des "Holzblockvernichters 3000" in zw
 Zum Schluss haben wir den Code in die Arduino-App uebertragen und den Servotreiber in den Code eingefuegt, wir haben auch ein PWMax fuer die Servos hinzugefuegt damit die Stromversorgung nicht zu hoch wird und die Servos durchbrennen.
 
 # *Projekttag Nr. 20* (09.11.2026)
-Am heutigen Tage war vor unserem Profilseminar unsere Matheklausur, daher hatten wir weniger Zeit zum Arbeiten. 
+Am heutigen Tage war vor unserem Profilseminar unsere Matheklausur und daher hatten wir weniger Zeit zum Arbeiten. Trotz dessen haben wir unseren Code ueberpruefen lassen, wobei zwei Fehlermeldungen kamen. Da wir die Fehler nicht gefunden haben, haben wir Gemini genutzt um die Fehler zu pruefen. Dabei hat die KI uns darauf aufmerksam gemacht, dass zwei Bibliotheken zur Code Lesung noch nicht installiert waren. Nachdem wir die Bilbliotheken installierten, wurden uns auch keine Fehlermeldungen mehr gesendet.

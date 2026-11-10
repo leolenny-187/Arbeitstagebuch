@@ -98,3 +98,5 @@ Zum Schluss haben wir den Code in die Arduino-App uebertragen und den Servotreib
 
 # *Projekttag Nr. 20* (09.11.2026)
 Am heutigen Tage war vor unserem Profilseminar unsere Matheklausur und daher hatten wir weniger Zeit zum Arbeiten. Trotz dessen haben wir unseren Code ueberpruefen lassen, wobei zwei Fehlermeldungen kamen. Da wir die Fehler nicht gefunden haben, haben wir Gemini genutzt um die Fehler zu pruefen. Dabei hat die KI uns darauf aufmerksam gemacht, dass zwei Bibliotheken zur Code Lesung noch nicht installiert waren. Nachdem wir die Bilbliotheken installierten, wurden uns auch keine Fehlermeldungen mehr gesendet.
+
+# *Projekttag Nr. 21* (10.11.2026)

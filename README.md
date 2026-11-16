@@ -110,4 +110,4 @@ Servomotor Anschluss 0: PWMmin 95 PWMMax 565
 Servomotor Anschluss 3: PWMmin 95 PWMmax 570
 Servomotor Anschluss 4: PWMmin 95 PWMmax 565
 Die restlichen Servomotoren werden am morgigen Tage getestet, da der Arduino warm wurde und ich kein durchbrennen riskieren wollte.
-Servomotor Anschluss 9: PWMmin 
+

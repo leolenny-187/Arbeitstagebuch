@@ -21,6 +21,7 @@
 - [Projekttag Nr.19 (03.11.2026)](#projekttag-nr-19-03112026)
 - [Projekttag Nr.20 (09.11.2026)](#projekttag-nr-20-09112026)
 - [Projekttag Nr.21 (10.11.2026)](#projekttag-nr-21-10112026)
+- [Projekttag Nr.22 (16.11.2026)](#projekttag-nr-22-16112026)
 
 # *Vorwort*
 Zum Beginn der Projektfindung war uns beiden klar, dass wir nichts kleingemuetiges anfangen, daher haben wir uns fuer etwas revolutionaeres entschieden und zwar fuer den Holzblockvernichter 3000. Dieser ist nicht nur zur Eliminierung von Holzbloecken zustaendig, sondern bringt auch die Erleuchtung fuer Gottesfuerchtige, daher ist es fuer jedes freie Wesen nicht nur empfehlenswert dies zu unterstuetzen, sondern eine hoehere Aufgabe, alle Geluesste diesem unterzuordnen.
@@ -102,3 +103,11 @@ Am heutigen Tage war vor unserem Profilseminar unsere Matheklausur und daher hat
 
 # *Projekttag Nr. 21* (10.11.2026)
 Am heutigen Tag habe ich einen Code zur Uebrpruefung der servos PWMMax gemacht, da wenn diese sich zu weit bewegen wuerden nicht funktionieren. Dafuer habe ich mir Thilo zur Hilfe genommen, da er dies schon gemacht hatte und wir haben einen kurzen Code zur Ueberpruefung geschrieben. Da leider die Zeit nicht zur Testung gereicht hatte, wird dies naechste Woche vervollstaendigt. Odhc bei dem Ersten Servo hatte sich eine PWMMax von 550 und einen PWMMin von 100 herrausgestellt.
+
+# *Projekttag Nr. 22* (16.11.2026)
+Am heutigen Tage habe ich die ersten Servomotoren auf die PWMmax und PWMmin getesten, dabei kamen fuer die folgenden Servomotoren diese Messwerte heraus:
+Servomotor Anschluss 0: PWMmin 95 PWMMax 565
+Servomotor Anschluss 3: PWMmin 95 PWMmax 570
+Servomotor Anschluss 4: PWMmin 95 PWMmax 565
+Die restlichen Servomotoren werden am morgigen Tage getestet, da der Arduino warm wurde und ich kein durchbrennen riskieren wollte.
+Servomotor Anschluss 9: PWMmin 

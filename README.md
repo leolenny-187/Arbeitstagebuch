@@ -22,6 +22,7 @@
 - [Projekttag Nr.20 (09.11.2026)](#projekttag-nr-20-09112026)
 - [Projekttag Nr.21 (10.11.2026)](#projekttag-nr-21-10112026)
 - [Projekttag Nr.22 (16.11.2026)](#projekttag-nr-22-16112026)
+- [Projekttag Nr.23 (17.11.2026)](#projekttag-nr-23-17112026)
 
 # *Vorwort*
 Zum Beginn der Projektfindung war uns beiden klar, dass wir nichts kleingemuetiges anfangen, daher haben wir uns fuer etwas revolutionaeres entschieden und zwar fuer den Holzblockvernichter 3000. Dieser ist nicht nur zur Eliminierung von Holzbloecken zustaendig, sondern bringt auch die Erleuchtung fuer Gottesfuerchtige, daher ist es fuer jedes freie Wesen nicht nur empfehlenswert dies zu unterstuetzen, sondern eine hoehere Aufgabe, alle Geluesste diesem unterzuordnen.
@@ -123,3 +124,4 @@ Servomotor Anschluss 8: PWMmin 100 PWMmax 570 differenz: 470
 Servomotor Anschluss 12: PWMmin 105 PWMmax 575 differenz: 470
 
 Da die Differenz nur minimal unterschiedlich ist muessen die Servo Belegungen nicht abgeaendert werden. 
+Im Anschluss haben wir die Werte auf unseren Hauptcode uebertragen, dabei mussten wir die Radarschwenkung um 10 erhoehen, die Grundstellung anpassen und den Trigger abaendern. Dies hat gut geklappt womit unser Grundcode vervollstaendigt ist, abgesehen von der praktischen Abstimmung zwischen Ziel Erkennung und Ziel Vernichtung. 

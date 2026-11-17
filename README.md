@@ -107,11 +107,19 @@ Am heutigen Tag habe ich einen Code zur Uebrpruefung der servos PWMMax gemacht, 
 # *Projekttag Nr. 22* (16.11.2026)
 Am heutigen Tage habe ich die ersten Servomotoren auf die PWMmax und PWMmin getesten, dabei kamen fuer die folgenden Servomotoren diese Messwerte heraus:
 
-Servomotor Anschluss 0: PWMmin 95 PWMMax 565
+Servomotor Anschluss 0: PWMmin 95 PWMMax 565 differenz: 470
 
-Servomotor Anschluss 3: PWMmin 95 PWMmax 570
+Servomotor Anschluss 3: PWMmin 95 PWMmax 570 differenz: 475
 
-Servomotor Anschluss 4: PWMmin 95 PWMmax 565
+Servomotor Anschluss 4: PWMmin 95 PWMmax 565 differenz: 470
 
 Die restlichen Servomotoren werden am morgigen Tage getestet, da der Arduino warm wurde und ich kein durchbrennen riskieren wollte.
 
+# *Projekttag Nr. 23* (17.11.2026)
+Zum Beginn des heutigen Tage haben wir die Servomotoren weiterhin getestet, dabei haben sich weite Messwerte herrausgestellt:
+
+Servomotor Anschluss 8: PWMmin 100 PWMmax 570 differenz: 470
+
+Servomotor Anschluss 12: PWMmin 105 PWMmax 575 differenz: 470
+
+Da die Differenz nur minimal unterschiedlich ist muessen die Servo Belegungen nicht abgeaendert werden. 

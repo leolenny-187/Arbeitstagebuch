@@ -129,5 +129,4 @@ Im Anschluss haben wir die Werte auf unseren Hauptcode uebertragen, dabei musste
 
 # *Projekttag Nr. 24* (23.11.2026)
 Da wir am Mittwoch die Ankunft unserer Teile erwarten, haben wir geplant wie wir diese zusammen bauen werden. Dies klappte ohne Probleme, da wir eine gutes 3D-Modell modelliert haben. Wir muessen allerdings Schrauben und Kleber verwenden, um die Servomotoren mit den Teilen zu verbinden. 
-
-Ebenfalls ist uns aufgefallen das wir bei der 3D-Modellierung nicht die Kabel der Servomotoren beachtet haben, daher werden wir bei den Servohalterungen eine Kabelvorrichtung schleifen muessen.
+Ebenfalls ist uns aufgefallen das wir bei der 3D-Modellierung nicht die Kabel der Servomotoren beachtet haben, daher werden wir bei den Servohalterungen eine Kabelvorrichtung schleifen muessen. 

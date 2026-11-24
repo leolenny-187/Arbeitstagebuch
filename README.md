@@ -135,4 +135,4 @@ Da wir am Mittwoch die Ankunft unserer Teile erwarten, haben wir geplant wie wir
 Ebenfalls ist uns aufgefallen das wir bei der 3D-Modellierung nicht die Kabel der Servomotoren beachtet haben, daher werden wir bei den Servohalterungen eine Kabelvorrichtung schleifen muessen. 
 
 # *Projekttag Nr. 25* (24.11.2026) 
-Zum Beginn des Tages haben wir zu Projekttag Nr. 21 den Screenshot von dem Code hinzugefuegt. 
+Zum Beginn des Tages haben wir zu Projekttag Nr. 21 den Screenshot von dem Code hinzugefuegt. Im nachhinein haben wir unsere Beitraege durchgelesen, um Fehler zu korrigieren und haben dabei auch den einen oder anderen korrigiert. Dies taten wir um eine Blamage zu verhindern, sobald wir mit unserer Revolution in die Geschichtsbuecher eingehen.
